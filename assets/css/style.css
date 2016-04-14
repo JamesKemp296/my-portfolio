@@ -1,0 +1,81 @@
+body{
+	background-image: url("../images/background.jpg");
+}
+.webD{
+	font-size: 64px;
+	font-weight: bold;
+	padding-top: 150px;
+}
+#smallP{
+	font-size: 32px;
+}
+#navbar a{
+	font-size: 22px;
+	padding: 10px;
+}
+footer{
+	border-top: solid 2px;
+	border-color: #00BC8C;
+	background-color:#222222;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	height: 60px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#about1{
+	font-size: 22px;
+}
+#about2{
+	font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 640px){
+	.webD{
+		font-size: 44px;
+		padding-top: 10px;
+	}
+	#smallP{
+		font-size: 22px;
+	}
+}
